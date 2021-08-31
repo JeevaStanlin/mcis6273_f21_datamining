@@ -1,4 +1,4 @@
-# Data Mining
+# Data Mining MCIS6273
 Course repository for MCIS6273 Data Mining.
 
 

@@ -2,7 +2,7 @@
 
 ## My Inspiration for Data Science
 
-I was working in the field of data warehousing for about 7 years, where I have dealt with different types of datasets (banking, healthcare etc.). Currently, though I am not working, I definitely look forward to learn more about **DATA** and the advancements in the field of Data science.
+I was working in the field of data warehousing for about 7 years, where I have dealt with different types of datasets (banking, healthcare etc.). Currently, though I am not working, I definitely look forward to learn more about **DATA** and the advancements in the field of Data science and I am looking forward for an opportunity to work as a Data scientist or a Data Analyst pretty soon.
 
 ## Goals:
 
